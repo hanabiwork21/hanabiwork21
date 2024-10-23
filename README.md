@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanabiwork21
+- 👋 Hi, I’m @hanabiwork21 / Jayvee Dairo
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React.js
 - 📫 Reach me via jayveedairo0@gmail.com
