@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Hanabiwork21, a passionate developer with experience working on Teams,<br>where I contributed to delivering outstanding projects and enhancing user experiences.<br>I enjoy collaborating with teams and continuously expanding my skill set.<br><br>🤝 I’m looking for opportunities to collaborate on team-oriented projects.<br>🌱 Currently diving deep into React.js to enhance my expertise in modern development frameworks.<br>💬 Feel free to ask me about frameworks or any of my recent works—I'm always happy to share and discuss ideas.<br>
+Hello! I'm Jayvee Dairo, a passionate developer with experience working on Teams,<br>where I contributed to delivering outstanding projects and enhancing user experiences.<br>I enjoy collaborating with teams and continuously expanding my skill set.<br><br>🤝 I’m looking for opportunities to collaborate on team-oriented projects.<br>🌱 Currently diving deep into React.js to enhance my expertise in modern development frameworks.<br>💬 Feel free to ask me about frameworks or any of my recent works—I'm always happy to share and discuss ideas.<br>
 
 
 ## 🌐 Socials:
